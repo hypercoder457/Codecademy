@@ -70,6 +70,10 @@ namespace ConsoleGame
           score++;
           fruitCol = rand.Next(cols);
           fruitRow = rand.Next(rows);
+          if(score == 10)
+          {
+            Console.WriteLine("You wiiiiiiiin!!!!!!!");
+          }
         }
       }
     }

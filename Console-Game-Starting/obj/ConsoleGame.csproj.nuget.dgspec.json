@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rpshende\\Desktop\\Projects\\Console-Game-Starting\\ConsoleGame.csproj": {}
+    "C:\\Users\\rpshende\\Desktop\\Projects\\Codecademy\\Console-Game-Starting\\ConsoleGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rpshende\\Desktop\\Projects\\Console-Game-Starting\\ConsoleGame.csproj": {
+    "C:\\Users\\rpshende\\Desktop\\Projects\\Codecademy\\Console-Game-Starting\\ConsoleGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rpshende\\Desktop\\Projects\\Console-Game-Starting\\ConsoleGame.csproj",
+        "projectUniqueName": "C:\\Users\\rpshende\\Desktop\\Projects\\Codecademy\\Console-Game-Starting\\ConsoleGame.csproj",
         "projectName": "ConsoleGame",
-        "projectPath": "C:\\Users\\rpshende\\Desktop\\Projects\\Console-Game-Starting\\ConsoleGame.csproj",
+        "projectPath": "C:\\Users\\rpshende\\Desktop\\Projects\\Codecademy\\Console-Game-Starting\\ConsoleGame.csproj",
         "packagesPath": "C:\\Users\\rpshende\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rpshende\\Desktop\\Projects\\Console-Game-Starting\\obj\\",
+        "outputPath": "C:\\Users\\rpshende\\Desktop\\Projects\\Codecademy\\Console-Game-Starting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rpshende\\AppData\\Roaming\\NuGet\\NuGet.Config",
